@@ -80,4 +80,4 @@ You can input a date in Gregorian calendar. This program can convert it to the d
 
 Please check out our web page at
 
-http://magiclen.org/mson-frame/
+http://magiclen.org/java-chinese-calendar/
