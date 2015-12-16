@@ -15,7 +15,7 @@ A large part of the code about **Java Chinese Calendar** is written in Chinese.
 
 ### Initialize
 
-You can't create a **農曆** instance by using **new** operator directly. You have to use the **建立** static method provide by **農曆** class to create a **農曆** instance.
+You can't create a **農曆** instance by using **new** operator directly. You have to use the **建立** static method provided by **農曆** class to create a **農曆** instance.
 
 You can pass the year, month and the days of the month in Gregorian calendar as parameters to **建立** method.
 
