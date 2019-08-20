@@ -14,6 +14,7 @@ repositories {
     jcenter()
     maven { url "https://jitpack.io" }
 }
+
 dependencies {
      implementation 'com.github.magiclen:JavaChineseCalendar:v2.1.4'
 }
